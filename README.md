@@ -1,6 +1,8 @@
 # About me
 
-As an academic librarian and information specialist, I am passionate about digital libraries, open science, and scholarly publishing. I also enjoy films, travelling and black coffee.
+As an academic librarian and information specialist, I am passionate about digital libraries, open science, and scholarly publishing. 
+
+I also enjoy films, travelling and black coffee.
 
 <!--
 **thomasgerdes/thomasgerdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
