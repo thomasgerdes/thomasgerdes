@@ -2,9 +2,6 @@
 
 As an academic librarian and information specialist, I am passionate about digital libraries, open science, and scholarly publishing. I also enjoy films, travelling and black coffee.
 
-Please visit [ORCID](https://orcid.org/0000-0001-8524-5987) for more information about my professional profile.
-Feel free to contact me on [Bluesky](https://bsky.app/profile/thomasgerdes.de) or on [Mastodon](https://openbiblio.social/@ThomasGerdes).
-
 <!--
 **thomasgerdes/thomasgerdes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
